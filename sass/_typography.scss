@@ -4,6 +4,9 @@
 }
 .heading {
   &-1 {
+    font-size: 4.5rem;
+    color: $color-grey-light-1;
+    line-height: 1;
   }
 
   &-2 {
@@ -59,5 +62,7 @@
 .mb-sm{margin-bottom: 2rem;}
 .mb-md{margin-bottom: 3rem;}
 .mb-lg{margin-bottom: 4rem;}
-.mb-hg{margin-bottom: 8rem;}
+.mb-hg{margin-bottom: 6rem;}
+.mr{margin-right: 10rem;}
+
 
