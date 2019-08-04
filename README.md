@@ -9,4 +9,4 @@ this project coverd:
 
 and a lot more.
 
-you can see a live version of Nexter project:
+you can see a live version of Nexter project: https://abdulrhmanjo.github.io/Nexter/
