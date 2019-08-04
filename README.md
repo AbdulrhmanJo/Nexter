@@ -1,9 +1,9 @@
 # Nexter
 
-trillo is the second project on Advanced CSS and Sass: Flexbox, Grid, Animations by Jonas Schmedtman
+nexter is the last project on Advanced CSS and Sass: Flexbox, Css Grid, Animations by Jonas Schmedtman
 
 this project coverd:
-1- grid css,
+1- Css grid,
 2- sass,
 3- responsive layout
 
